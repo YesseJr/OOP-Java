@@ -59,7 +59,3 @@ Yamaha the motorcycle is zooming through traffic.
 Toyota the car is driving smoothly on the road.
 Yamaha the motorcycle is zooming through traffic.
 ```
-
-## Note
-
-The classic `User` / `Admin` / `Customer` example was already used as the in-class demonstration, so the `Vehicle` topic was chosen instead to keep this an original individual submission.
